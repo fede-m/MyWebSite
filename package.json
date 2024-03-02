@@ -10,7 +10,7 @@
   "author": "Federica Manzi",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.3.1",
+    "dotenv": "^16.4.2",
     "nodemailer": "^6.9.9"
   }
 }
